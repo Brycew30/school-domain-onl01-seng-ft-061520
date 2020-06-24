@@ -14,7 +14,7 @@ class School
      end
   end
   
-  def sort
+  def grade
     
   end
 end
